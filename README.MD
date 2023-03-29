@@ -1,4 +1,4 @@
-# francesco-foglia.github.io
+# francesco-foglia-dev
 
 Project realized for the master in Front End Development of [start2impact](https://www.start2impact.it/)
 
@@ -20,9 +20,9 @@ Project realized for the master in Front End Development of [start2impact](https
 * [Laravel Mix](https://laravel-mix.com/)
 * [Formspree](https://formspree.io/)
 
-## Watch it on GitHub Pages
+## Watch it on Vercel
 
-https://francesco-foglia.github.io
+https://francesco-foglia-dev.vercel.app
 
 ## Getting Started
 
